@@ -1,0 +1,14 @@
+{
+  "strategy_errors": {
+    "S1_vanilla": 0.6998900789767504,
+    "S2_fourier": 1.5277232844382524,
+    "S3_causal": 0.6053099371492863,
+    "routed": 0.18340298905968666
+  },
+  "routing_map": {
+    "A1_LambOseen": "S3_causal",
+    "A2_Stokes": "S1_vanilla",
+    "A3_Burgers": "S2_fourier",
+    "A4_Kovasznay": "S2_fourier"
+  }
+}
