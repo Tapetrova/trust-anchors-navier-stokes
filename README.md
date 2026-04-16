@@ -1,5 +1,7 @@
 # Trust Anchors for Agentic Scientific Computing
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19616708.svg)](https://doi.org/10.5281/zenodo.19616708)
+
 **Analytical Navier–Stokes Solutions as Verification Primitives in Multi-Agent AI Ecosystems**
 
 Tatiana Petrova — SEDAN/SnT, University of Luxembourg
